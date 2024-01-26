@@ -1,8 +1,6 @@
-# React + Vite
+# Fetching  data from an API is not an easy
+# job but with state-management it has never being easy.
+# For this task I was requiredto fetch a JSON data, using useEfect, I was able to fect the data, use the setState and use filter and slice to filter through the images and select the first 20.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![alt text](https://github.com/ARINCoder/React/blob/FetchJSON/Screenshot%202024-01-26%20095025.png ) 
+![alt text]( https://github.com/ARINCoder/React/blob/FetchJSON/Screenshot%202024-01-26%20094926.png) 
