@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 400px;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(3, 3, 3);
+  width: 100px;
+}
+.nav{ display: grid;
+  grid-template-columns: 1fr 1fr ;
+  column-gap: 10px;
+  align-items: center;
+  
+
+}
+img{
+  display: flex;
+  width: 400px;
+
+}
