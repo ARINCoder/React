@@ -1,0 +1,11 @@
+.Profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+
+}
+img{
+    border: 1px solid black;
+    border-radius: 10px;
+}
